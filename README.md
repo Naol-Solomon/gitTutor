@@ -1,1 +1,1 @@
-git tutorial on git branching
+Git branching tutorial
